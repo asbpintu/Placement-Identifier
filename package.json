@@ -1,0 +1,15 @@
+{
+  "name": "Placement Identifier",
+  "version": "1.0.0",
+  "description": "By analysing CGPA, IQ and Profile Score prediction od the students Placement using SVM model.",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "dependencies": {
+    "flask": "^2.2.2",
+    "scikit-learn": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
